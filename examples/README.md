@@ -12,7 +12,7 @@ Multi-module examples for `otel-util-genai` manual instrumentation (OTel GenAI S
 
 - Java 17+
 - Maven 3.8+
-- DashScope API Key (China North 2 / Beijing): [Get API Key](https://help.aliyun.com/zh/model-studio/get-api-key)
+- DashScope API Key: [Get API Key](https://help.aliyun.com/en/model-studio/get-api-key)
 
 ## Configuration (local demo)
 
